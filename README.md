@@ -1,7 +1,7 @@
-# BadBankExercise
-This banking application is a static website created using React and deployed through Amazon Web Services (an Amazon S3 Bucket). It was assigned in the MITxPro Full Stack Developer program.
+# Bad Bank Exercise
+This banking application is a static website created using React and deployed through Amazon Web Services (an Amazon S3 Bucket). It was assigned in the MITxPro Full Stack Developer program. It is called a "bad" bank because the site has no security.
 
-The web page can be viewed here.
+<strong>The web page can be viewed <a href="http://willrobinson-bankingapp.s3-website-us-east-1.amazonaws.com/#/">here</a>.</strong>
 
 The following was required for the assignment:
 
@@ -175,10 +175,10 @@ The following was required for the assignment:
 # Usage
 Download or clone the files in this repository to run locally.
 
-Future Improvements
+# Future Improvements
 This was a one-time assignment and will not be improved upon.
 
-License
+# License
 MIT License
 
 Copyright (c) 2022
