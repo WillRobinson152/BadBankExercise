@@ -134,25 +134,45 @@ The following was required for the assignment:
      </ul>
    </li>
 
-7. Withdraw Page
+  <li>Withdraw Page
+    <ul>
+      <li>Includes a Bootstrap card with a form that has:
+        <ul>
+          <li>Withdraw input field</li>
+          <li>Withdraw button<li>
+          <li>Balance information displays above deposit form on the card<li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  
+  <li>Withdraw Page Functionality
+    <ul>
+      <li>Withdraw page should include the following functionality:
+        <ul>
+          <li>Updated Balance: When a user completes the withdrawal form, the number submitted is subtracted from the total balance.</li>
+          <li>Success Message: When a user completes the withdrawal form, they receive a success message confirming that their withdraw was processed.</li>
+          <li>Account Overdraft Feature: When a user withdraws a number higher than the account balance, the user receives an alert message on the withdraw page.</li>
+          <li>Not A Number Alert: User receives an alert if they add something that is not a number.</li>
+          <li>Disable deposit button if nothing is input</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  
+  <li>All Data Page Functionality
+    <ul>
+      <li>All Data page includes the following functionality:
+        <ul>
+          <li>Track User Submissions: All user submissions appear on All Data page.</li>
+          <li>All Data Displayed On Bootstrap Card: All Data is styled and displayed on a Bootstrap card instead of JSON.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
 
-Includes a Bootstrap card with a form that has:
-Withdraw input field 
-Withdraw button 
-Balance information displays above deposit form on the card
-8. Withdraw Page Functionality
-
-Withdraw page should include the following functionality:
-Updated Balance: When a user completes the withdrawal form, the number submitted is subtracted from the total balance. 
-Success Message: When a user completes the withdrawal form, they receive a success message confirming that their withdraw was processed. 
-Account Overdraft Feature: When a user withdraws a number higher than the account balance, the user receives an alert message on the withdraw page.
-Not A Number Alert: User receives an alert if they add something that is not a number. 
-Disable deposit button if nothing is input
-9. All Data Page Functionality
-
-All Data page includes the following functionality:
-Track User Submissions: All user submissions appear on All Data page.
-All Data Displayed On Bootstrap Card: All Data is styled and displayed on a Bootstrap card instead of JSON.Usage
+# Usage
 Download or clone the files in this repository to run locally.
 
 Future Improvements
