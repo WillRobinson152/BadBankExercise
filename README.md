@@ -83,8 +83,8 @@ The following was required for the assignment:
       <li>Includes a Bootstrap card with a form that has:
         <ul>
           <li>Withdraw input field</li>
-          <li>Withdraw button<li>
-          <li>Balance information displays above deposit form on the card<li>
+          <li>Withdraw button</li>
+          <li>Balance information displays above deposit form on the card</li>
         </ul>
       </li>
     </ul>
