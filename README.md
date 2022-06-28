@@ -36,7 +36,7 @@ The following was required for the assignment:
     </ul>
   </li>
   
-  <li>Create Account Page Functionality
+  <li><strong>Create Account Page Functionality</strong>
     <ul>
       <li>Create account page should include the following functionality:
         <ul>
@@ -52,7 +52,7 @@ The following was required for the assignment:
     </ul>
    </li>
   
-  <li>Deposit Page
+  <li><strong>Deposit Page</strong>
     <ul>
       <li>Includes a Bootstrap card with a form that has:
         <ul>
@@ -64,7 +64,7 @@ The following was required for the assignment:
     </ul>
   </li>
 
-  <li>Deposit Page Functionality
+  <li><strong>Deposit Page Functionality</strong>
     <ul>
       <li>Deposit page should include the following functionality:
         <ul>
@@ -78,7 +78,7 @@ The following was required for the assignment:
     </ul>
   </li>
   
-  <li>Withdraw Page
+  <li><strong>Withdraw Page</strong>
     <ul>
       <li>Includes a Bootstrap card with a form that has:
         <ul>
@@ -90,7 +90,7 @@ The following was required for the assignment:
     </ul>
   </li>
   
-  <li>Withdraw Page Functionality
+  <li><strong>Withdraw Page Functionality</strong>
     <ul>
       <li>Withdraw page should include the following functionality:
         <ul>
@@ -104,7 +104,7 @@ The following was required for the assignment:
     </ul>
   </li>
   
-  <li>All Data Page Functionality
+  <li><strong>All Data Page Functionality</strong>
     <ul>
       <li>All Data page includes the following functionality:
         <ul>
